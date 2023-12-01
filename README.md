@@ -16,7 +16,8 @@ The Dice Roller app is designed to simulate the experience of rolling a six-side
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot_1.png)
+![Screenshot 1](![image](https://github.com/AsimAyman/Dice/assets/83433950/3ced3d0e-562a-47ed-b7a8-70adc00f7c3c)
+)
 ![Screenshot 2](screenshots/screenshot_2.png)
 
 ## Getting Started
