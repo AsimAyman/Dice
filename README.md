@@ -1,8 +1,9 @@
 # 🎲 Dice Roller App
 
 A simple Flutter app that simulates rolling a dice.
+![image](https://github.com/AsimAyman/Dice/assets/83433950/a452b5a1-8ad9-49f5-9d8b-4bae7d9d2f6e)
 
-![Dice Roller App](screenshots/dice_app.png)
+
 
 ## Overview
 
